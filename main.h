@@ -9,5 +9,6 @@
 
 /* prototype for _prinf.c*/
 int _printf(const char *format, ...);
+int _putchar(char a);
 
 #endif
